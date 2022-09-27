@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/fernandeeess">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandeeess&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandeeess&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandeess&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandeess&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 
   <h1>🏃‍♂️ Tecnologias que estou percorrendo</h1>
