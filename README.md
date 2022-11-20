@@ -1,4 +1,4 @@
-<h1>Hi, i'm Matheus and this is my GitHub</h1>
+<h1>Hi, I'm Matheus and this is my GitHub</h1>
 <ul>
    <li>🎓I'm studying systems analysis and development at SpTech College.</li>
 </ul>
