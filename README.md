@@ -1,8 +1,6 @@
-<h1 align="center">Matheus Fernandes Rodrigues</h1>
+<h1>Hi, i'm Matheus and this is my GitHub</h1>
 <ul>
-   <li>🎓 Cursando o 1° semestre em Análise e Desenvolvimento de Sistemas<br>na SPTech</li>
-   <li>🔭 Estudando FRONT-END...</li>
-   <li>🌱 Focado em JavaScript</li>
+   <li>🎓I'm studying systems analysis and development at SpTech College.</li>
 </ul>
 
 
@@ -12,37 +10,19 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandeess&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 
-  <h1>🏃‍♂️ Tecnologias que estou percorrendo</h1>
+  <h1>My tech stack</h1>
  
   
   <div style="display: inline_block">
-<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-     
-<img align="left" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-
-<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-     
-<img align="left" src="https://img.shields.io/badge/MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white">
-    
+<img width="50px" align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+<img width="50px" align="left" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" >
+<img width="50px" align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">   
+<img width="50px" align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">  
 <br>
 </div>
+<br><h1><a href="https://www.linkedin.com/in/matheus-fernandes-rodrigues-90445b20b/">Linkedin<a></h1>
 </div>
-
-  <h1>🔧 Ferramentas que aprendi a utilizar</h1>
-  
-<img align="left" src="https://img.shields.io/badge/Netlify-43853D?style=for-the-badge&logo=netlify&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<br>
-<br>
-
  
-  <h1><a href="https://www.linkedin.com/in/matheus-fernandes-rodrigues-90445b20b/">Linkedin<a></h1>
- 
-  <div> 
   
  
 
- 
-</div>
-</div>
