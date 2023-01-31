@@ -1,28 +1,24 @@
-<h1>Hi, I'm Matheus and this is my GitHub</h1>
-<ul>
-   <li>🎓I'm studying systems analysis and development at SpTech College.</li>
-</ul>
+# A Warm Welcome to My Github Profile!
 
 
-<div>
-  <a href="https://github.com/fernandeeess">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandeess&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandeess&layout=compact&langs_count=7&theme=shades-of-purple"/>
-</div>
+como um estudande de desenvolvimento de sof
+As a software development student, I am constantly seeking new and innovative solutions to tackle challenging problems. Collaboration is key for me, and I find joy in working with others to create great things. My passion for technology never fades, and I am always looking for new opportunities to learn and grow.
 
-  <h1>My tech stack</h1>
- 
-  
-  <div style="display: inline_block">
-<img width="50px" align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-<img width="50px" align="left" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" >
-<img width="50px" align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">   
-<img width="50px" align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">  
-<br>
-</div>
-<br><h1><a href="https://www.linkedin.com/in/matheus-fernandes-rodrigues-90445b20b/">Linkedin<a></h1>
-</div>
- 
-  
- 
+## My Skills in a Nutshell
+- Web Development (HTML, CSS, JavaScript)
+- Comprehension in Python Programming
+- Database Management (MySQL)
+
+
+## My Project Portfolio
+
+https://fernandeess.github.io/Portfolio/
+
+## Areas of Interest
+- Machine Learning
+- Artificial Intelligence
+
+## Let's Chat!
+Don't hesitate to reach out to me via email or social media. I am always open to connecting and exchanging ideas!
+
 
