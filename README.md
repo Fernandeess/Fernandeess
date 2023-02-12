@@ -15,8 +15,8 @@ As a software development student, I am constantly seeking new and innovative so
 https://fernandeess.github.io/Portfolio/
 
 ## Areas of Interest
-- Machine Learning
-- Artificial Intelligence
+- Backend Development
+- Frontend Development
 
 ## Let's Chat!
 Don't hesitate to reach out to me via email or social media. I am always open to connecting and exchanging ideas!
