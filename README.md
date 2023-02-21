@@ -1,3 +1,4 @@
+<img src="https://github.com/fernandacaramico/fernandacaramico/raw/main/capa.png">
 # A Warm Welcome to My Github Profile!
 
 
