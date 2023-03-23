@@ -1,4 +1,4 @@
-<img src="https://github.com/fernandacaramico/fernandacaramico/raw/main/capa.png">
+<img styele="margin:0px auto" src="https://media.licdn.com/dms/image/D4D16AQFhUoZu9F5Bcw/profile-displaybackgroundimage-shrink_200_800/0/1676395946661?e=2147483647&v=beta&t=DISljund3ZmKpr66VF0Ms6di2AF2sAN12q1sUUKpII0">
 # A Warm Welcome to My Github Profile!
 
 
