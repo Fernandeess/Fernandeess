@@ -1,14 +1,14 @@
-As a software development student, I am constantly seeking new and innovative solutions to tackle challenging problems. Collaboration is key for me, and I find joy in working with others to create great things. My passion for technology never fades, and I am always looking for new opportunities to learn and grow.
+As a software development student, I am constantly seeking new and innovative solutions to address challenging problems. Collaboration is essential to me, and I find joy in working with others to create remarkable things. My passion for technology never wanes, and I am always seeking new opportunities to learn and grow.
 
 ## My Skills in a Nutshell
-- Web Development (HTML, CSS, JavaScript)
+- Web Development (HTML, CSS, JavaScript,React)
 - Java Development
 - Springboot
-- Database Management (MySQL)
-
+- Cloud (Azure,AWS)
+- Database Management (MySQL,Postgres,SQL Server)
 
 ## My Portfolio
-https://fernandeess.github.io/Portfolio/
+[Portfolio](https://fernandeess.github.io/Portfolio/)
 
 ## Areas of Interest
 - Backend Development
@@ -16,5 +16,3 @@ https://fernandeess.github.io/Portfolio/
 
 ## Let's Chat!
 Don't hesitate to reach out to me via email or social media. I am always open to connecting and exchanging ideas!
-
-
