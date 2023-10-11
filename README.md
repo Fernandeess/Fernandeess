@@ -5,7 +5,7 @@ As a software development student, I am constantly seeking new and innovative so
 - Java Development
 - Springboot
 - Cloud (Azure,AWS)
-- Database Management (MySQL,Postgres,SQL Server)
+- Database (MySQL,Postgres,SQL Server)
 
 ## My Portfolio
 [Portfolio](https://fernandeess.github.io/Portfolio/)
