@@ -22,9 +22,9 @@ Atualmente, estou me especializando em **Arquitetura de Software** pela FIAP.
 
 ## 📫 Vamos nos conectar?
 
-* [cite_start]**LinkedIn:** [linkedin.com/in/matheus-fernandeess](https://linkedin.com/in/matheus-fernandeess) [cite: 3]
-* [cite_start]**Email:** [matheusfernandesrodrigues@outlook.com](mailto:matheusfernandesrodrigues@outlook.com) [cite: 3]
-* [cite_start]**Localização:** Osasco, SP [cite: 3]
+* **LinkedIn:** [linkedin.com/in/matheus-fernandeess](https://linkedin.com/in/matheus-fernandeess)
+* **Email:** [matheusfernandesrodrigues@outlook.com](mailto:matheusfernandesrodrigues@outlook.com)
+* **Localização:** Osasco, SP
 
 ---
-[cite_start]*“Comprometido com a entrega de código limpo e performático.”* [cite: 8]
+[cite_start]*“Comprometido com a entrega de código limpo e performático.”*  
