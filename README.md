@@ -20,29 +20,10 @@ Atualmente, estou me especializando em **Arquitetura de Software** pela FIAP.
 
 ---
 
-## 🚀 Experiência de Destaque
-
-**Desenvolvedor Fullstack na Stefanini**
-* [cite_start]Implementação de APIs integrando mais de 10.000 ativos monitorados[cite: 14].
-* [cite_start]Orquestração de fluxos de dados complexos com Kafka e processos ETL[cite: 15, 17].
-* [cite_start]Foco em alta disponibilidade e troubleshooting de operações nacionais[cite: 18].
-
----
-
-## 📂 Projetos em Destaque
-
-### [FoodWay - Plataforma de Avaliações](LINK_DO_REPOSITORIO)
-Plataforma completa de backend desenvolvida para avaliações de estabelecimentos.
-* [cite_start]**Tech Stack:** Java, Spring Boot, PostgreSQL[cite: 33, 34].
-* [cite_start]**Infra:** Deploy na AWS (RDS, S3, VPC) com proxy reverso NGINX[cite: 34, 35].
-* [cite_start]**Observabilidade:** Monitoramento ativo via Grafana e Prometheus[cite: 35].
-
----
-
 ## 📫 Vamos nos conectar?
 
-* **LinkedIn:** [linkedin.com/in/matheus-fernandeess](https://linkedin.com/in/matheus-fernandeess)
-* **Email:** [matheusfernandesrodrigues@outlook.com](mailto:matheusfernandesrodrigues@outlook.com)
+* [cite_start]**LinkedIn:** [linkedin.com/in/matheus-fernandeess](https://linkedin.com/in/matheus-fernandeess) [cite: 3]
+* [cite_start]**Email:** [matheusfernandesrodrigues@outlook.com](mailto:matheusfernandesrodrigues@outlook.com) [cite: 3]
 * [cite_start]**Localização:** Osasco, SP [cite: 3]
 
 ---
